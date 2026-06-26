@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+.agents/
+.codex/
+
+# Local outputs / test data
+merged*
+output/
+parts/*
+!parts/
+
+# Large files that should not be committed
+*.pkg
+*.bin
+*.iso
+*.zip
+*.rar
+*.7z
+*.001
+*.002
+*.003
+*.004
+*.005
+*.006
+
+# Keep the tiny bundled demo parts.
+!test_part*.pkg
+!demo_parts/
+!demo_parts/test_part*.pkg
