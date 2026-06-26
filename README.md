@@ -337,6 +337,10 @@ These checks make it safer for big files, but they cannot prove the contents are
 - Windows, macOS, or Linux
 - No external Python packages
 
+## Author
+
+Created by eudk
+
 ## License
 
 MIT License.
